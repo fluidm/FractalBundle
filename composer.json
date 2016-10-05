@@ -1,5 +1,5 @@
 {
-    "name": "samj/fractal-bundle",
+    "name": "fluidm/fractal-bundle",
     "license": "MIT",
     "type": "library",
     "description": "A Symfony2 Bundle for Fractal by League. Implements dependency injection into your transformers",
@@ -11,6 +11,6 @@
     "require": {
         "php": ">=5.4",
         "symfony/symfony": ">=2.3.19",
-        "league/fractal": "~0.12.0"
+        "league/fractal": "~0.14.0"
     }
 }
